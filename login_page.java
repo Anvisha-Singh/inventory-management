@@ -6,7 +6,7 @@
 
 /**
  *
- * @author kraja
+ * @author anvis
  */
 import javax.swing.*;
 import java.awt.*;
