@@ -34,7 +34,7 @@ import javax.swing.table.TableModel;
  */
 /**
  *
- * @author kraja
+ * @author anvis
  */
 public class receipt extends javax.swing.JFrame {
 
