@@ -31,7 +31,7 @@ import javax.swing.SpinnerNumberModel;
  */
 /**
  *
- * @author kraja
+ * @author anvis
  */
 public class purchase_order extends javax.swing.JFrame {
 
