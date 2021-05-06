@@ -14,7 +14,7 @@ import oracle.jdbc.OracleDriver;
 
 /**
  *
- * @author kraja
+ * @author anvis
  */
 public class JConnection {
     private static Connection con;
