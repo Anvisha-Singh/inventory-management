@@ -21,7 +21,7 @@ import javax.swing.JTable;
  */
 /**
  *
- * @author kraja
+ * @author anvis
  */
 public class stock extends javax.swing.JFrame {
 
