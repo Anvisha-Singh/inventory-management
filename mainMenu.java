@@ -17,7 +17,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author kraja
+ * @author anvis
  */
 public class mainMenu extends javax.swing.JFrame {
 
